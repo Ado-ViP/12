@@ -27,7 +27,7 @@
 			<key>PayloadIdentifier</key>
 			<string>net.configuration.Saad</string>
 			<key>PayloadOrganization</key>
-			<string>Zhanyar IOS V.2</string>
+			<string>Sadd Naman Store Vip</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
@@ -47,7 +47,7 @@
 	<key>PayloadIdentifier</key>
 	<string>net.configuration.Saad</string>
 	<key>PayloadOrganization</key>
-	<string>Zhanyar IOS V.2</string>
+	<string>Saad Naman Store Vip</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
