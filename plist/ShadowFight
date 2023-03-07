@@ -11,7 +11,7 @@
                             <key>kind</key>
                             <string>software-package</string>
                             <key>url</key>
-                            <string>https://archive.org/download/car-parking-ado-vip-4.7.5-1676025008/Car%20Parking%20-%20Ado%20VIP_4.7.5_1676025008.ipa</string>
+                            <string>https://archive.org/download/shadow-fight-2_202303/Shadow%20Fight%202.ipa</string>
                         </dict>
                         <dict>
                         <key>kind</key>
@@ -19,19 +19,19 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://zhanyarios.ml/images/profile.jpeg</string>
+                        <string>https://archive.org/download/e-2-b-093-c-9-2560-4358-a-960-0-c-8474-cdf-8-a-0/E2B093C9-2560-4358-A960-0C8474CDF8A0.jpeg</string>
                         </dict>
                     </array>
                     <key>metadata</key>
                     <dict>
                         <key>bundle-identifier</key>
-                        <string>com.aidana.cardriving.iosAdo</string>
+                        <string>com.nekki.shadowfight</string>
                         <key>bundle-version</key>
                         <string>1.0</string>
                         <key>kind</key>
                         <string>software</string>
                         <key>title</key>
-                        <string>Car Parking</string>
+                        <string>Shadow Fight 2</string>
                     </dict>
                 </dict>
             </array>
