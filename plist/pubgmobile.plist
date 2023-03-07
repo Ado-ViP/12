@@ -25,7 +25,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<strings>com.tencent.igguy</string>
+                        <string>com.tencent.igguy</string>
 <key>kind</key>
 <string>software</string>
 <key>subtitle</key>
