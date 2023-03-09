@@ -11,7 +11,7 @@
                             <key>kind</key>
                             <string>software-package</string>
                             <key>url</key>
-                            <string>https://archive.org/download/dltik-tok/DLTikTok.ipa</string>
+                            <string>https://archive.org/download/tik-tok-27.0.1-1678374516/TikTok_27.0.1_1678374516.ipa</string>
                         </dict>
                         <dict>
                         <key>kind</key>
@@ -25,13 +25,13 @@
                     <key>metadata</key>
                     <dict>
                         <key>bundle-identifier</key>
-                        <string>com.zhiliaoapp.musically</string>
+                        <string>com.zhiliaoapp.adovip</string>
                         <key>bundle-version</key>
                         <string>1.0</string>
                         <key>kind</key>
                         <string>software</string>
                         <key>title</key>
-                        <string>Tiktok DL</string>
+                        <string>TikTok</string>
                     </dict>
                 </dict>
             </array>
