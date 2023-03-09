@@ -11,7 +11,7 @@
                             <key>kind</key>
                             <string>software-package</string>
                             <key>url</key>
-                            <string>https://archive.org/download/video-star_20230306_2031/Video%20Star%20.ipa</string>
+                            <string>https://archive.org/download/video-star-saadnaman-store-11.3.2-1678370352/Video%20Star%20-%20Saadnaman%20Store_11.3.2_1678370352.ipa</string>
                         </dict>
                         <dict>
                         <key>kind</key>
@@ -31,7 +31,7 @@
                         <key>kind</key>
                         <string>software</string>
                         <key>title</key>
-                        <string>Video Star</string>
+                        <stringVideoStarPro</string>
                     </dict>
                 </dict>
             </array>
